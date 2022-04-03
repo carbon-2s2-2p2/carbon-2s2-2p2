@@ -12,7 +12,7 @@
 <a href="https://t.me/lzy_0402"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://twitter.com/lzy_0402"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
-You are also able to contact me by iMessage, just add my email address to your iOS address book and open the iMessage APP.
+You are also able to contact me by iMessage, just add my email address to your iOS Contacts and open the iMessage APP.
 
 Pub Key: `5598C6FB687739E4`
 
