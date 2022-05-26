@@ -4,9 +4,9 @@
 ---
 ## Count
 
-[![EvanLuo42's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvanLuo42&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![EvanLuo42's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvanLuo42&theme=radical&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvanLuo42&layout=compact&theme=radical&hide=html,javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvanLuo42&layout=compact&theme=radical&exclude_repo=blog&langs_cound=8)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ## Contact Me
 <a href="https://t.me/lzy_0402"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
