@@ -4,13 +4,10 @@
 ---
 ## Count
 
-[![EvanLuo42's GitHub stats](https://github-readme-stats.vercel.app/api?username=carbon-2s2-2p2&theme=radical&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![EvanLuo42's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvanLuo42&theme=radical&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carbon-2s2-2p2&layout=compact&theme=radical&exclude_repo=blog&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvanLuo42&layout=compact&theme=radical&exclude_repo=blog&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 ---
-## Contact Me
-<a href="https://t.me/carbon_2s2_2p2"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://twitter.com/carbon_2s2_2p2"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 GPG Fingerprint:
 
